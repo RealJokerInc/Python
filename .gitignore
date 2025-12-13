@@ -1,5 +1,9 @@
-# Exclude large project folders
-BME 4790/
+# Exclude large project folders (but allow .py and .ipynb files)
+BME 4790/**
+!BME 4790/**/*.py
+!BME 4790/**/*.ipynb
+!BME 4790/**/
+!BME 4790/
 
 # Python cache files
 __pycache__/
