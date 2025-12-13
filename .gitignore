@@ -1,0 +1,12 @@
+# Exclude large project folders
+BME 4790/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store

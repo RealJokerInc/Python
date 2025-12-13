@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lemon/Documents/Python/Animation4/media/videos/test/480p15/partial_movie_files/HelicityVisualization/493242797_1786249603_223132457.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation4/media/videos/test/480p15/partial_movie_files/HelicityVisualization/3933656880_233831863_1456779957.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation4/media/videos/test/480p15/partial_movie_files/HelicityVisualization/3933656880_2807652955_1480033864.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation4/media/videos/test/480p15/partial_movie_files/HelicityVisualization/2382183776_2176813131_861175606.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation4/media/videos/test/480p15/partial_movie_files/HelicityVisualization/2599024416_2631580503_2874710962.mp4'

@@ -1,0 +1,54 @@
+﻿Scene 1 — 2D curl and out-of-plane vector
+Visual:
+ Start with a 2D vector field on the screen (viewed from above) that clearly has vortices of different strengths and sizes. Draw a small moving dot in the field. Around the dot, the local arrows should visibly swirl. Move the dot to different locations and show how the local swirling changes.
+Then, at the dot’s position, fade in a single red arrow pointing out of the plane to represent the curl vector at that point. As you move the dot around again, update the curl vector’s length to reflect changes in the strength of rotation.
+Story 1 (voiceover):
+ “Imagine a simple 2D vector field. At any point in that field, the curl tells us how strongly the flow spins around that point. And since curl is actually a 3D operation, it returns a vector perpendicular to the plane. The larger the magnitude of this vector, the stronger the local rotation.”
+________________
+
+
+Scene 2 — Helical path: rotation + forward drift
+Visual:
+ Switch to a 3D view of a vector field. The arrows should rotate around an invisible axis but also tilt slightly in the direction of that axis, indicating a forward drift.
+Then simplify the view: fade out most of the arrows and focus on a single yellow particle. Let it move through the field, tracing out a clear helical path. Keep the camera at a fixed oblique angle that shows both the circular motion and the forward motion.
+Once the helix is visible, draw a circular arrow around the axis to indicate the local rotational direction, and then reveal the axis itself as a straight line that the particle is moving along.
+Story 2 (voiceover):
+ “Now let’s move toward helicity. Picture a 3D vector field and track a single fluid particle as it moves. In the first example, the particle doesn’t only rotate around some axis—it also drifts forward along that axis. As a result, its trajectory becomes a helix: rotation plus translation aligned with that rotation.”
+________________
+
+
+Scene 3 — Pure rotation: no forward drift
+Visual:
+ Show another 3D vector field, this time with arrows that rotate around an axis but have no component along the axis.
+Again, fade down the field and focus on a single particle. Let it move in a closed circular path around the axis at a fixed height, looping over and over with no vertical progress. Here, you can gently rotate the camera around the axis to emphasize that the particle is just orbiting, not moving forward.
+Story 3 (voiceover):
+ “Consider a second vector field. Here, the particle still rotates around an axis, but there is no forward drift. It simply spirals in place, tracing out circular loops without advancing. In this case, we do not get a helical path—only pure rotation.”
+________________
+
+
+Scene 4 — Split comparison: helix vs circle
+Visual:
+ Create a side-by-side split view:
+* On the left, replay the particle tracing a helical path from Scene 2.
+
+* On the right, replay the particle looping in a circle from Scene 3.
+
+Use the same camera angle for both panels so the difference is purely in the motion. The left panel shows rotation plus forward drift; the right panel shows rotation only.
+Story 4 (voiceover):
+ “From these two examples, we can already build intuition for helicity. To produce a helical trajectory, two ingredients must coexist:
+(1) some rotational component, or vorticity, and
+(2) some bulk flow direction that pushes the particle forward.
+Only when both are present do we see genuine helical structure.”
+________________
+
+
+Scene 5 — Curl, bulk flow, and helicity u⋅curl(u)u · curl(u)u⋅curl(u)
+Visual:
+ Return to the helical case from Scene 2. Show the particle moving briefly, then pause it at some point on the helix.
+At that point, insert a translucent cross-sectional plane orthogonal to the axis. Zoom in slightly on this plane. In the plane, show a tiny local 2D swirl of arrows, and then draw the curl vector at the particle’s position as a red arrow perpendicular to the plane (aligned with the axis).
+Next, draw the bulk flow vector uuu at the same point as a green arrow along the axis direction. The red and green arrows should be mostly aligned so it’s visually clear they point in nearly the same direction.
+Finally, bring up the expression
+h=u⋅(∇×u)h = u \cdot (\nabla \times u)h=u⋅(∇×u)
+on screen. As the dot product is mentioned, highlight the alignment of the two arrows and then gently pulse the scalar hhh.
+Story 5 (voiceover):
+ “Finally, remember that curl in 3D produces a vector perpendicular to the plane of local rotation. Suppose we introduce a flow vector uuu representing the local direction of bulk motion. If we take the dot product u⋅∇×uu \cdot \nabla \times uu⋅∇×u, we obtain a scalar quantity that ties these two ideas together: how much the flow’s spin aligns with its forward motion. This captures, in a single expression, the essence of helicity.”

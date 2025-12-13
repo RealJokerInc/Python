@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/Scene4_SideBySideComparison/2989158395_2352332938_3359185895.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/Scene4_SideBySideComparison/938996151_1824384650_1939281513.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/Scene4_SideBySideComparison/938996151_233831863_4241365632.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/Scene4_SideBySideComparison/938996151_1259871307_809638129.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/Scene4_SideBySideComparison/938996151_824426264_435552385.mp4'

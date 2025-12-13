@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/2092031283_2163807891_223132457.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/4066693074_1530275952_559285592.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/4066693074_3455836527_4117129055.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/4066693074_233831863_1427989227.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/4066693074_1094292932_172207244.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/4066693074_1530275952_426521087.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/scene2_helix/480p15/partial_movie_files/Scene2_HelicalPath/446266028_1687483585_2268684555.mp4'

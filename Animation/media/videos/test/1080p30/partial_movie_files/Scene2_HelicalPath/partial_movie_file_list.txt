@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/1080p30/partial_movie_files/Scene2_HelicalPath/122644725_3739767601_223132457.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/1080p30/partial_movie_files/Scene2_HelicalPath/1220859134_1772021501_3997246033.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/1080p30/partial_movie_files/Scene2_HelicalPath/1220859134_968243842_556774106.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/1080p30/partial_movie_files/Scene2_HelicalPath/3835454212_3481293513_497538076.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/1080p30/partial_movie_files/Scene2_HelicalPath/3994092289_3039617433_259664137.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/HelicityWithTracedPaths/2989158395_3155958141_223132457.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/HelicityWithTracedPaths/938996151_1772021501_1937903147.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/HelicityWithTracedPaths/938996151_968243842_2102594402.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/HelicityWithTracedPaths/3016478876_3481293513_3110304373.mp4'
+file 'file:/Users/lemon/Documents/Python/Animation/media/videos/test/480p15/partial_movie_files/HelicityWithTracedPaths/269571748_3039617433_2055751597.mp4'
